@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* git test */
+/* git test 2 */
 /*возводит base в n-ю степень; n>=0*/
 int power(int base, int n)
 {
