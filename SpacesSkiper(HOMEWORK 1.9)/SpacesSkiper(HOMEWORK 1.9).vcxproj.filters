@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="7.2) while (type int) spaces skiper  (HOMEWORK 1.9).c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

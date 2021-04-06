@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
+    <ClCompile Include="5.2) output EOF (HOMEWORK 1.6).c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="5.3) output EOF (HOMEWORK 1.7).c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

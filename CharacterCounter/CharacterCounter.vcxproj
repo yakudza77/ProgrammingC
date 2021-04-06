@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{368420f6-a0cd-4c2a-9ea5-b6f853167297}</ProjectGuid>
-    <RootNamespace>ArrayOfSymbols</RootNamespace>
+    <ProjectGuid>{1b8ddcc5-2a68-44bd-985e-dc74615dd69a}</ProjectGuid>
+    <RootNamespace>CharacterCounter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>015ArrayOfSymbols</ProjectName>
+    <ProjectName>004CharacterCounter</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11)array of symbols (print longest line).c" />
+    <ClCompile Include="6) Character Counter v1.c" />
+    <ClCompile Include="6) while (type long)  Character Counter v1 mod.c" />
+    <ClCompile Include="6) while (type long)  Character Counter v1.c" />
+    <ClCompile Include="6.2) for (type long)  Character Counter v2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

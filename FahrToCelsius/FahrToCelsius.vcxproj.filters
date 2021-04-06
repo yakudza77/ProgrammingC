@@ -15,10 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
+    <ClCompile Include="2) while (type int)  Fahr to Celsius.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="2.1) while  (type float)  Fahr to Celsius.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2)Title  while (type float) Fahr to Celsius (HOMEWORK 1.3).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3)Title while (type float)   Celsius to Fahr (HOMEWORK 1.4).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3) for (type float) fahr to celsius.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1) Title for (type float) fahr to celsius(HOMEWORK1.5).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2) for(type float) celsius to fahr MOD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4)Define Title (type int) fahr to celsius.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

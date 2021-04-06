@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="8) while,if,if,else if (int) Counting words.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

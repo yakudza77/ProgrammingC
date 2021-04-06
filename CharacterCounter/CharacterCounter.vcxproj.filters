@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
+    <ClCompile Include="6.2) for (type long)  Character Counter v2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="6) while (type long)  Character Counter v1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6) while (type long)  Character Counter v1 mod.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6) Character Counter v1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

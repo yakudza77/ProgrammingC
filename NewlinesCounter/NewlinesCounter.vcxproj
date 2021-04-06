@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{368420f6-a0cd-4c2a-9ea5-b6f853167297}</ProjectGuid>
-    <RootNamespace>ArrayOfSymbols</RootNamespace>
+    <ProjectGuid>{f5fd6aeb-6fb4-4a90-b002-c62fde64a9c6}</ProjectGuid>
+    <RootNamespace>NewlinesCounter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>015ArrayOfSymbols</ProjectName>
+    <ProjectName>005NewlinesCounter</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11)array of symbols (print longest line).c" />
+    <ClCompile Include="7)  Newlines counter.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

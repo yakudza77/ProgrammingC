@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{368420f6-a0cd-4c2a-9ea5-b6f853167297}</ProjectGuid>
-    <RootNamespace>ArrayOfSymbols</RootNamespace>
+    <ProjectGuid>{c34503a9-a618-4ffb-88eb-8c1955eee7d1}</ProjectGuid>
+    <RootNamespace>CopyFile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>015ArrayOfSymbols</ProjectName>
+    <ProjectName>002CopyFile</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11)array of symbols (print longest line).c" />
+    <ClCompile Include="5) Copy File v1.c" />
+    <ClCompile Include="5.1) Copy File v2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

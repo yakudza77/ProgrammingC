@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="7.1) while,if,else if, else if (type int) counting newlines tabs spaces (HOMEWORK 1.8).c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="9.2) array histogramm horizontal (HOMEWORK  1.14 ).c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

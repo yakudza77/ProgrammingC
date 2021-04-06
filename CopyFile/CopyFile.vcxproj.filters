@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
+    <ClCompile Include="5) Copy File v1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="5.1) Copy File v2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

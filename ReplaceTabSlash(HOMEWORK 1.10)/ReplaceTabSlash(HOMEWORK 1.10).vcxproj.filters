@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="7.3) while (type int) replace tab slash (HOMEWORK 1.10).c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

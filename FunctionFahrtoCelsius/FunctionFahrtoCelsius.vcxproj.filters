@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FunctioPowerv2.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FunctionPower.c">
+    <ClCompile Include="10.2) Function  Fahr to Celsius (HOMEWORK 1.15).c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

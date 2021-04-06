@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{368420f6-a0cd-4c2a-9ea5-b6f853167297}</ProjectGuid>
-    <RootNamespace>ArrayOfSymbols</RootNamespace>
+    <ProjectGuid>{23b2193e-f88c-4933-a646-c2b3d4b45c2f}</ProjectGuid>
+    <RootNamespace>FunctionFahrtoCelsius</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>015ArrayOfSymbols</ProjectName>
+    <ProjectName>014FunctionFahrtoCelsius</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="11)array of symbols (print longest line).c" />
+    <ClCompile Include="10.2) Function  Fahr to Celsius (HOMEWORK 1.15).c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
