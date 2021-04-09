@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9.2) array histogramm horizontal (HOMEWORK  1.14 ).c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="histogramm word lenght.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="9.1%29histogramm lenght words LiteVersion%28HOMEWORK 1.13%29.c">
+    <ClCompile Include="CurrentProjectAtHome.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
