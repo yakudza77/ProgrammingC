@@ -40,7 +40,7 @@ int main()
     /* 3)size_t n = strlen(search_for);
     if (n > 0 && search_for[n - 1] == '\n')
     search_for[n - 1] = '\0';*/
-    search_for[strcspn(search_for, "\n")] = '\0';
+    search_for[strcspn(search_for, "\n")] = '\0'; //strcspn  Выполняет поиск первого вхождения в строку str1 любого из символов строки str2, и возвращает количество символов до найденного первого вхождения.
     find_track(search_for);
     return 0;
 }
