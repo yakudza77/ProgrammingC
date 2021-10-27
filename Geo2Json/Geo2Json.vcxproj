@@ -24,7 +24,7 @@
     <ProjectGuid>{007ce7fc-31fd-44be-9270-1b11f2fe950e}</ProjectGuid>
     <RootNamespace>Geo2Json</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>018Geo2Json</ProjectName>
+    <ProjectName>019Geo2Json</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
