@@ -24,7 +24,7 @@
     <ProjectGuid>{5583edae-a781-48d5-8e15-d910da8aff90}</ProjectGuid>
     <RootNamespace>ThreeOutput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>022ThreeOutput</ProjectName>
+    <ProjectName>022Сategorize</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ThreeOutput.c" />
+    <ClCompile Include="Сategorize.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
