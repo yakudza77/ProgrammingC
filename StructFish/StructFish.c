@@ -49,6 +49,8 @@ int main() {
 	Alisa.care.food.weight = 20;
 	Alisa.care.exercise.description = "swim in the pool";
 	Alisa.care.exercise.duration = 9.5;
+	struct fish Baron = { .name = "Baron",.age = 15,.care.exercise.description = "like jumping over the hoop" };
+	//Пример выборочной записи данных во вложенные структуры
 	printf(" %s like to %s \n\n ", snappy.name, snappy.care.exercise.description); //Пример вывода данных из вложенной структуры
 	printf("%s like to %s and then eat %s \n", Alisa.name, Alisa.care.exercise.description, Alisa.care.food.ingredients);
 
