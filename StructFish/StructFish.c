@@ -26,7 +26,7 @@ struct fish {       //структура preferences вложена в структуру fish и имеет наз
 
 label(struct fish a)
 {
-	printf("Label\n");
+	printf("\nLabel\n");
 	printf("Name:%s\nSpecies:%s\n%d years old, %d teeth\n", a.name, a.species, a.age, a.teeth);
 	printf("Feed with %2.2f lbs of %s and allow to %s for %2.2f hours\n",
 		a.care.food.weight, a.care.food.ingredients, a.care.exercise.description, a.care.exercise.duration);
@@ -36,9 +36,22 @@ label(struct fish a)
 
 
 int main() {
-	//Пример как записать данные во вложенную стрктуры и вызвать через функцию
+	//Пример как записать данные во вложенные  стрктуры и вызвать через функцию
     struct fish snappy = { "Snappy","Piranha",69, 4,{{"meat", 0.2}, {"swim in the jacuzzi", 7.5}} };
+
+	//Пример как записать данные во вложенные структуры в каждый элемент отдельно
+	struct fish Alisa; 
+	Alisa.name = "Alisa";
+	Alisa.species = "shark";
+	Alisa.teeth = 300;
+	Alisa.age = 5;
+	Alisa.care.food.ingredients = "raw fish";
+	Alisa.care.food.weight = 20;
+	Alisa.care.exercise.description = "swim in the pool";
+	Alisa.care.exercise.duration = 9.5;
 	printf(" %s like to %s \n\n ", snappy.name, snappy.care.exercise.description); //Пример вывода данных из вложенной структуры
+	printf("%s like to %s and then eat %s \n", Alisa.name, Alisa.care.exercise.description, Alisa.care.food.ingredients);
+
 	label(snappy);
 
 	return 0;
