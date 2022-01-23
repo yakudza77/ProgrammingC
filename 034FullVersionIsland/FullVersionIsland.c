@@ -35,10 +35,11 @@ void release(island* start)
 {
 	island* i = start;
 	island* next = NULL;
-	for (; i = NULL; i = next) {
+	for (; i != NULL; i = next) {
 		next = i->next;
 		free(i->name);
 		free(i);
+		i = NULL; //Освободилась только память но сами адреса структур остались, так что принял решение что и их нужно обнулить, в книге этого нет.
 	}
 
 
