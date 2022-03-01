@@ -5,7 +5,7 @@ int compare_scores(const void* score_a, const void* score_b)
 {
 	int a = *(int*)score_a;// ≈сли приводим тип данных сразу, то данные две строки не нужны
 	int b = *(int*)score_b;
-	return b - a; // —ортировка по возрастанию 
+	return a - b; // —ортировка по возрастанию 
 	//return *a - *b; //если приводим типы сразу то пишем 
 	//retun *b - *a;// —ортировка по убыванию
 }
